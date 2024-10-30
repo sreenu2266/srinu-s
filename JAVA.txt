@@ -1,6 +1,0 @@
-yum list java*
-
-curl localhost:6443
-  127  multipass exec master -- sydo cat /etc/kubernetes/admin.conf > kubeconfig
- 
- 
